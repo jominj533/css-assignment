@@ -3,9 +3,8 @@ h1 {
     text-align: center;
     color: rgb(247, 245, 245);
     border: black solid;
-    background-color: #070707;
+    background-color: #ED4D6E;
 }
-
 h2 {
     color: rgb(10, 10, 10);
     font-size: 25pt;
@@ -41,9 +40,9 @@ p {
 div.wrapper {
     background-image: url("https://images.unsplash.com/photo-1675929970731-11970d723740?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80");
     background-size: cover;
-    width: 80vw;
-    background-color: #f7f7f7;
-    border: 1px double #ccc;
+    width: 80%;
+    background-color: #9799CA;
+    border: 1px double black;
 }
 ul{
     color: rgb(7, 7, 7);
@@ -60,5 +59,5 @@ p{
     text-align: center;
     border:black solid;
     padding: 20px;
-    background-color: rgba(231, 101, 25, 0.636);
+    background-color: #29524a;
 }
